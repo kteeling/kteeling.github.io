@@ -21,7 +21,7 @@ contact_channels_section: true
 contact_channels:
   email: "hire@kevin.systems"
   linkedin: "https://www.linkedin.com/in/teeling/"
-  github: "https://github.com/kteeling"
+  # github: "https://github.com/kteeling"
   # telegram: "https://t.me/"
   # stackoverflow: "https://stackoverflow.com"
   # discord: "https://discord.com/"
