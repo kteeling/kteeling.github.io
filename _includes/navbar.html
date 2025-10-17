@@ -16,6 +16,8 @@
       {% endif%}
       {% endfor %}
 
+      <div><a class="px-4 hover:underline href="{{ 'assets/files/Kevin-Teeling-resume.pdf' | relative_url }}">Resume</a></div>
+      
       <div class="theme-switcher">
         <button id="theme-toggle" class="px-4" aria-label="Toggle theme">
           <span class="dark:hidden">
@@ -33,25 +35,5 @@
 
     </div>
   </div>
-
-  <!--
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      const currentLangButton = document.querySelector('.current-language');
-      const dropdownContent = document.querySelector('.dropdown-content');
-
-      if (currentLangButton && dropdownContent) {
-        currentLangButton.addEventListener('click', function () {
-          dropdownContent.classList.toggle('hidden');
-        });
-
-        document.addEventListener('click', function (event) {
-          if (!currentLangButton.contains(event.target) && !dropdownContent.contains(event.target)) {
-            dropdownContent.classList.add('hidden');
-          }
-        });
-      }
-    });
-  </script>
-  -->
+  
 </nav>
