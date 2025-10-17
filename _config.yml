@@ -1,7 +1,7 @@
 title: kevin.systems
 logo: /assets/images/teeling.jpg
-baseurl: ""
-url: https://kevin.systems
+baseurl: "/"
+url: "https://kevin.systems"
 
 ##
 # Collections configuration
