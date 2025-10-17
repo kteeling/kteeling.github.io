@@ -19,14 +19,14 @@ collections:
 ##
 contact_channels_section: true
 contact_channels:
-  # email: "example@example.cl"
+  email: "hire@kevin.systems"
+  linkedin: "https://www.linkedin.com/in/teeling/"
   github: "https://github.com/kteeling"
   # telegram: "https://t.me/"
   # stackoverflow: "https://stackoverflow.com"
   # discord: "https://discord.com/"
   # mastodon: "https://lile.cl/"
   # threads: "https://www.threads.net/@example"
-  linkedin: "https://www.linkedin.com/in/teeling/"
 
 ##
 # Plugins configuration
@@ -34,15 +34,6 @@ contact_channels:
 plugins:
   - jekyll-archives
   - jekyll-seo-tag
-  - jekyll-polyglot
-
-##
-# Polyglot configuration
-##
-languages: ["en"]
-default_lang: "en"
-exclude_from_localization: ["javascript", "images", "css", "public"]
-parallel_localization: true
 
 ##
 # Archives configuration
