@@ -28,6 +28,8 @@ contact_channels:
   # mastodon: "https://lile.cl/"
   # threads: "https://www.threads.net/@example"
 
+resume_link: "/assets/files/Kevin-Teeling-resume.pdf"
+
 ##
 # Plugins configuration
 ##

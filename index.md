@@ -3,7 +3,7 @@ layout: home
 title: Home
 description: >-
   Kevin Teeling
-  Systems & Security Engineer
+  Systems and Security Engineer
 image: /assets/images/teeling.jpg
 main_content: >
   # Kevin Teeling.
