@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Certifications
+nav: true
 description: >-
   Kevin Teeling
   Certifications
-image: /assets/images/teeling.jpg
 main_content: >
   # Kevin Teeling
   ## *Active Certifications*
@@ -19,5 +19,5 @@ main_content: >
   - [GIAC Cloud Security Essentials (GCLD)](https://www.credly.com/badges/df734d64-7789-4c6d-a6c6-5a09cde02476)
   
 footer: false
-permalink: /
+permalink: /certs.html
 ---
