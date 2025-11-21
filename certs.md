@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Certifications
-nav: true
 description: >-
   Kevin Teeling
   Certifications
