@@ -5,7 +5,7 @@ description: >-
   Kevin Teeling
   Systems and Security Engineer
 image: /assets/images/teeling.jpg
-main_content: >
+main_content: |
   # Kevin Teeling
   ### *Systems & Security Engineer*
 
