@@ -5,7 +5,8 @@ nav: true
 description: >-
   Kevin Teeling
   Certifications
-main_content: >
+image: /assets/images/teeling.jpg
+main_content: |
   # Kevin Teeling
   ## *Active Certifications*
 
